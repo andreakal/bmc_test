@@ -1,0 +1,17 @@
+name = Profiles
+description = profiles of people
+core = 7.x
+package = Humans
+dependencies[] = features
+dependencies[] = number
+dependencies[] = text
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:2
+features[field_base][] = body
+features[field_base][] = field_age
+features[field_instance][] = node-profile-body
+features[field_instance][] = node-profile-field_age
+features[node][] = profile
+features[views_view][] = people
+features_exclude[dependencies][ctools] = ctools
