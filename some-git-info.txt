@@ -11,3 +11,5 @@ In 2005, the relationship between the community that developed the Linux kernel 
     Able to handle large projects like the Linux kernel efficiently (speed and data size)
 
 Since its birth in 2005, Git has evolved and matured to be easy to use and yet retain these initial qualities. It’s incredibly fast, it’s very efficient with large projects, and it has an incredible branching system for non-linear development (See Chapter 3).
+
+This is more info about git. Git is cool. Yay.
