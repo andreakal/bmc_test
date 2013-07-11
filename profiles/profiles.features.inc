@@ -19,7 +19,7 @@ function profiles_node_info() {
     'profile' => array(
       'name' => t('profile'),
       'base' => 'node_content',
-      'description' => t('This is a person.'),
+      'description' => t('This defines a person.'),
       'has_title' => '1',
       'title_label' => t('Name'),
       'help' => '',
