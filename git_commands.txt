@@ -3,6 +3,10 @@ git status : see the status of the repo
 git clone [repo-url]: clone a repository
 git show : Show the last commit
 git diff : see changes
+git branch : see available branches
+git branch [branch-name] : create a new branch
+git checkout [branch-name] : checkout a branch
+git checkout [commit-number] : checkout a specific commit
 
 
 // Get stuff into git
